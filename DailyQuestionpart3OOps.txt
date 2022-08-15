@@ -1,0 +1,37 @@
+1.What is oops stands for?
+2.What is Polymorphism? explain types?
+3.what is interface and example in selenium,java?
+4.what is abstarct class and example?
+5.Difference between multiple inheritance and multilevel inheritance
+6.Is multiple inheritance possible in java?
+7.What is keyword for using inheritance  
+8.what is the keyword to connect interface and class
+9.what is difference between class and interface
+10.what is difference between class and abstract class
+
+1.oops stands for object oriented programming language.
+
+2.polymorphism is one of the oops concept that allows us to perform a single action in different ways(or) multiple form of implementation.
+  i.method overloading
+  ii. method overriding
+
+3.An interface in java is a blueprint of a class.it has a static contants and abstract methods. The interface in java is a mechanism of achieve abstraction.
+eg in selenium:Webdriver
+
+4.Abstract class is a restricted class that cannot be used to create object.
+eg:Vehicle parent class with truck and motorbike inheriting from it
+
+5. The difference between multiple and multilevel inheritance is that Multiple inheritence is when class inherits from many base classes while multiple inheritence is when class inherits
+from a derived class making that derived class a base class for a new class.
+
+6.The java programming language supports multiple inheritence of type, which is the ability of a class to implement more than one interface.but we don't use this multiple inheritence.
+
+7.The keyword used for inheritence is extends.
+
+8.Implements 
+
+9.A class describes the attributes and behaviours of an object.An interface contains behaviours that a class implements.
+
+10.abstract class may or may not contain abstract methods.class cannot contain an abstract method.
+
+  
