@@ -15,7 +15,7 @@ public class student {
 		System.out.println(name);
 		System.out.println(email);
 	}
-	public void getStudentDetails(int id, String name, String email,long number) {
+	public void getStudentDetails(int id, String name, String email,phone number) {
 		System.out.println(id);
 		System.out.println(name);
 		System.out.println(email);
@@ -27,7 +27,7 @@ public class student {
 		std.getStudentDetails(4159);
 		std.getStudentDetails(4159, "Sriraman");
 		std.getStudentDetails(4159, "Sriraman", "sriram@gmail.com");
-		std.getStudentDetails(4159, "Sriraman", "sriram@gmail.com", 123456789);
+		std.getStudentDetails(4159, "Sriraman", "sriram@gmail.com", 1234567890);
 	}
 
 }
